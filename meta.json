@@ -1,0 +1,23 @@
+{
+  "repo": "recuva-professional",
+  "product": "Recuva Professional",
+  "kind": "recovery",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "file-recovery",
+  "topics": [
+    "recuva-geo",
+    "deep-scan-desk",
+    "geo-pin-windows",
+    "recuva-2026",
+    "how-to-install-recuva",
+    "recuva-desktop-package",
+    "hash-list-suite",
+    "timestamp-map-tools",
+    "file-forensics-pro",
+    "recuva-professional-suite"
+  ],
+  "site": "toolix.me"
+}
